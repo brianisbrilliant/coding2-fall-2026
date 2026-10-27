@@ -26,6 +26,10 @@
 		{
 			"Name": "OSC",
 			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
 		}
 	]
 }
